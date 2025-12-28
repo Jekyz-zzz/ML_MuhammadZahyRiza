@@ -44,3 +44,6 @@ Dashboard akan terbuka melalui browser pada alamat lokal.
 
 ## Screenshot Dashboard
 
+![Dashboard Streamlit](screenshots/DashBoard1.png)
+![Dashboard Streamlit](screenshots/DashBoard2.png)
+
