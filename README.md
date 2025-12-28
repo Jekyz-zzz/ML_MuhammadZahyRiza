@@ -36,6 +36,11 @@ streamlit run dashboard.py
 
 Dashboard akan terbuka melalui browser pada alamat lokal.
 
+### 3. Dashboard Streamlit (Online)
+
+Dashboard dapat diakses secara online melalui tautan berikut:
+https://mlmuhammadzahyriza-wlb4bx3zbnhouztqbkvv2a.streamlit.app/
+
 ## Ringkasan Insight
 
 * Pola penggunaan sepeda menunjukkan dua puncak utama pada jam sibuk pagi dan sore hari, yang mengindikasikan penggunaan sepeda sebagai sarana transportasi komuter.
