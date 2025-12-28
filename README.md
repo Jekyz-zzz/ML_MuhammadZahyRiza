@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini merupakan analisis data end-to-end menggunakan Bike Sharing Dataset untuk memahami pola penggunaan sepeda dan faktor-faktor yang memengaruhi jumlah peminjaman. 
+Proyek ini merupakan analisis data end-to-end menggunakan Bike Sharing Dataset (Capital Bikeshare, 2011–2012) untuk memahami pola penggunaan sepeda dan faktor-faktor yang memengaruhi jumlah peminjaman. 
 Analisis dilakukan melalui tahapan data wrangling, exploratory data analysis (EDA), visualisasi data, serta analisis lanjutan menggunakan machine learning sederhana sebagai pendukung insight.
 
 ## Dataset
